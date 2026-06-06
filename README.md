@@ -1,0 +1,2 @@
+# DamarindoERP
+Aplikasi ERP system
